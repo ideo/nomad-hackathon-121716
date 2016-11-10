@@ -1,7 +1,7 @@
 {
   "name": "nomad-sensor-hello",
   "version": "1.0.0",
-  "description": "",
+  "description": "reports the time",
   "main": "sensor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
