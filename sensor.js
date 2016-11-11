@@ -31,14 +31,14 @@ function getMessage() {
 	difference = difference - minutes*millisPerMinute
 	const seconds = Math.floor(difference / millisPerSecond)
 
-	return {
+	return JSON.stringify({
 		years,
 		months,
 		days,
 		hours,
 		minutes,
 		seconds
-	}
+	})
 }
 
 nomad.prepareToPublish().then((n) => {
