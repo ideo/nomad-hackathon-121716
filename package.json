@@ -1,7 +1,7 @@
 {
-  "name": "nomad-sensor-hello",
+  "name": "next-presidential-election",
   "version": "1.0.0",
-  "description": "reports the time",
+  "description": "How long until the next US presidential election",
   "main": "sensor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/IDEO-coLAB/nomad-sensor-hello#readme",
   "dependencies": {
-    "nomad-stream": "^1.0.0"
+    "moment": "^2.16.0",
+    "nomad-stream": "0.0.6"
   }
 }
