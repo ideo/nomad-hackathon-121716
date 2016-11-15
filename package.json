@@ -1,7 +1,7 @@
 {
-  "name": "next-presidential-election",
+  "name": "our-names-better",
   "version": "1.0.0",
-  "description": "How long until the next US presidential election",
+  "description": "adds awesome to names",
   "main": "sensor.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
