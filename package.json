@@ -1,5 +1,6 @@
 {
   "name": "welcome-to-nomad",
+  "nomadName": "Welcome to Nomad",
   "version": "1.0.0",
   "description": "Welcome message with lifetime of Nomad",
   "main": "sensor.js",

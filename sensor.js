@@ -8,7 +8,7 @@ const birthdate = moment('2016-11-10')
 const publishFrequency = 5 * 60 * 1000
 
 function getMessage() {
-	const message = `Hello from the Nomad beacon!\nNomad was born ${birthdate.fromNow()} on ${birthdate.format('MMMM Do, YYYY')}.\nThis message was sent at ${moment().format('h:mm a')}.\nIt's a plain text message, but nodes can publish structured data too as stringified JSON.`
+	const message = `Hello from the Nomad beacon!\nNomad was born ${birthdate.fromNow()} on ${birthdate.format('MMMM Do, YYYY')}.\nThis message was sent at ${moment().format('h:mm a')} UTC.\nIt's a plain text message, but nodes can publish structured data too as stringified JSON.`
 
 		return message
 	}
