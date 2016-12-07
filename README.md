@@ -16,7 +16,7 @@ Nomad is currently only written in Javascript and the hackathon will be Node.js-
 
 You'll also need the latest stable NodeJS build [install here](https://nodejs.org/en/).
 
-#### 2.a Install NPM
+#### Ensure NPM Exists
 
 The link above will install `npm` (the default Node Package Manager), but if you have
 an over version of Node, you may need to make sure `npm` is installed globally. To check
@@ -36,7 +36,7 @@ To familiarize you with Nomad, we will be doing a live walkthrough to build a No
 The code we'll build upon is in this starter repo. So feel free to clone it locally and 
 follow along with us during the live-demo.
 
-#### 3.a Clone the Starter Repo
+#### Clone the Starter Repo
 
 The code below will install this starter repo into a folder named `nomad-hackathon`:
 
@@ -48,7 +48,7 @@ The code below will install this starter repo into a folder named `nomad-hackath
 > git clone https://github.com/ideo/nomad-hackathon-121716.git nomad-hackathon
 ```
 
-#### 3.b Install the Dependencies
+#### Install Dependencies
 
 The code below will install the required npm dependencies.
 
