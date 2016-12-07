@@ -61,3 +61,9 @@ The code below will install the required npm dependencies.
 ```
 
 With the above steps completed, you're in great shape!
+
+## Resources
+
+Here is a [list of APIs](https://github.com/toddmotto/public-apis) that you 
+may find useful to use during this hackathon.
+
